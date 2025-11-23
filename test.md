@@ -1,3 +1,8 @@
+# 🩺 Caregiver App IA
+
 graph TD
-A[App] --> B[Home]
-B --> C[Plan]
+A[Caregiver App]
+A --> B[🏠 Home]
+A --> C[📋 Plan]
+A --> D[🛒 Shop]
+A --> E[📊 Progress]
